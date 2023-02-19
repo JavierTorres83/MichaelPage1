@@ -191,3 +191,141 @@ header{
 .find-img{
     margin: 25px;
 }
+
+.grid-img{
+    height: 150px;
+    margin-left: 340px;
+    margin-right: 340px;
+    margin-top: 40px;
+}
+
+.actions-cards{
+    display: flex;
+    justify-content: center;
+}
+
+.advice .contact .notice {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.advice{
+    background-color: #124395;
+    padding-left: 340px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+.contact{
+    background-color: #faa61a;
+    padding: 30px;
+}
+
+.notice{
+    background-color: #172745;
+    padding-right: 340px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.advice-title{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2;
+    padding-bottom: 1px;
+    color: white;
+}
+
+.advice-text{
+    font-weight: 100;
+    line-height: 1.2;
+    color: white;
+    margin-bottom: 40px;
+    font-size: 16px;
+}
+
+.notice-title{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2;
+    padding-bottom: 1px;
+    color: white;
+}
+
+.notice-text{
+    font-weight: 100;
+    line-height: 1.2;
+    color: white;
+    margin-bottom: 40px;
+    font-size: 16px;
+}
+
+.contact-title{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2;
+    padding-bottom: 1px;
+    color: black;
+}
+
+.contact-text{
+    font-weight: 100;
+    line-height: 1.2;
+    color: black;
+    margin-bottom: 40px;
+    font-size: 16px;
+}
+
+.advice-button{
+    font-family: "Roboto",sans-serif;
+    padding: 17px 40px;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 0.3px;
+    line-height: 1.125;
+    text-align: center;
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.advice-button:hover{
+    background-color: rgb(255 255 255 / .1);
+}
+
+.notice-button{
+    font-family: "Roboto",sans-serif;
+    padding: 17px 40px;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 0.3px;
+    line-height: 1.125;
+    text-align: center;
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.notice-button:hover{
+    background-color: rgb(255 255 255 / .1);
+}
+
+.contact-button{
+    font-family: "Roboto",sans-serif;
+    padding: 17px 40px;
+    font-weight: 600;
+    color: black;
+    letter-spacing: 0.3px;
+    line-height: 1.125;
+    text-align: center;
+    border: 2px solid black;
+    background-color: transparent;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.contact-button:hover{
+    background-color: rgb(255 255 255 / .1);
+}
